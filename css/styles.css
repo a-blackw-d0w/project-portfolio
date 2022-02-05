@@ -149,6 +149,7 @@ header {
 .nav {
     background: var(--clr-dark);
     color: var(--clr-light);
+    flex-basis: 100%;
     position: fixed;
     top: 0;
     bottom: 0;
